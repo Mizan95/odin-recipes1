@@ -4,13 +4,13 @@
 }
 
 .heading {
-    color: rgb(97, 76, 37);
+    color: rgb(190, 85, 24);
     font-size: 50px;
 }
 
 .main-heading,
 .sub-heading {
-    color: rgb(104, 84, 46);
+    color: rgba(151, 65, 14, 0.767);
     font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
     Geneva, Verdana, sans-serif;
@@ -22,21 +22,21 @@
 }
 
 .description {
-    color: rgb(168, 102, 26);
+    color: rgb(143, 130, 18);
     font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
     Geneva, Verdana, sans-serif;
 }
 
 .uolist-item {
-    color: rgb(168, 102, 26);
+    color: rgb(143, 130, 18);
     font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
     Geneva, Verdana, sans-serif;
 }
 
 .olist-item {
-    color: rgb(179, 125, 63);
+    color: rgb(148, 147, 66);
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
     Geneva, Verdana, sans-serif;
