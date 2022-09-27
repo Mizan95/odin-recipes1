@@ -1,0 +1,43 @@
+.main-image {
+    height: 700px;
+    width: 600px;
+}
+
+.heading {
+    color: rgb(97, 76, 37);
+    font-size: 50px;
+}
+
+.main-heading,
+.sub-heading {
+    color: rgb(104, 84, 46);
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+
+}
+
+.sub-heading {
+    font-size: 20px;
+}
+
+.description {
+    color: rgb(168, 102, 26);
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+}
+
+.uolist-item {
+    color: rgb(168, 102, 26);
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+}
+
+.olist-item {
+    color: rgb(179, 125, 63);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+}
